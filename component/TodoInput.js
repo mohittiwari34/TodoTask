@@ -158,7 +158,7 @@ export default function Todo() {
             boxShadow: "0 3px 6px rgba(0,0,0,0.2)",
           }}
           onMouseOver={(e) => (e.target.style.backgroundColor = "#1976D2")}
-          onMouseOut={(e) => (e.target.style.backgroundColor = "#2196F3")}
+          onMouseOut={(e) => (e.target.style.backgroundColor = "#2196F3 ")}
         >
           Search By Date
         </button>
